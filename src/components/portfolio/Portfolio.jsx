@@ -1,27 +1,29 @@
 import React from 'react'
 import "./portfolio.css"
-import Img1 from "../../assets/p_sqr.png"
+import Img1 from "../../assets/proj_1.png"
+import Img2 from "../../assets/proj_2.PNG"
+import Img3 from "../../assets/proj_3.PNG"
 
 const data = [
   {
     id: 1,
     image: Img1,
-    title: "Project Title",
-    github: "#",
-    demo: "#"
+    title: "Pavan Digital Press",
+    github: "https://github.com/ParthMovaliya/ParthMovaliya-PavanDigitalPress",
+    demo: "https://parth-movaliya-pavan-digital-press.vercel.app/"
   },
   {
-    id: 1,
-    image: Img1,
-    title: "Project Title",
-    github: "#",
-    demo: "#"
+    id: 2,
+    image: Img2,
+    title: "Mind Game",
+    github: "#https://github.com/ParthMovaliya/Mind-Game",
+    demo: "https://mind-game-nu.vercel.app/"
   },
   {
-    id: 1,
-    image: Img1,
-    title: "Project Title",
-    github: "#",
+    id: 3,
+    image: Img3,
+    title: "Portfolio",
+    github: "https://github.com/ParthMovaliya/portfolio",
     demo: "#"
   }
 ]
