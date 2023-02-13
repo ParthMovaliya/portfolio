@@ -18,7 +18,7 @@ const Header = () => {
             autoStart:true,
             loop:true,
             delay:100,
-            strings:[ "Fullstack Developer","Student","Coder"]
+            strings:[ "Fullstack Developer","Student","Gamer"]
           }}
         />
         </h5>
